@@ -1,1 +1,1 @@
-<h1>Trang người dùng</h1>
+<h1>Trang chủ chứa layout website hiển thị thông tin cho người dùng</h1>
